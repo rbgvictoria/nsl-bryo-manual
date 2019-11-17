@@ -73,7 +73,7 @@ Therefore, we need to remove the AusMoss instance of *Ptychostomum angustifolium
 You can see that the AusMoss 2015 instance of *Ptychostomum angustifolium* has the '<span style="color:red">APC</span>' tick, but not the '<span style="color:brown">APC daily minor edits</span>' tick. This is because it is no longer on the draft tree. Once the draft tree is published, the APC tick will disappear as well.
 
 ::: tip
-Also note that I also added the synonyms from the *Flora of Australia* treatment (Spence and Ramsay, 2006). In AusMoss pre-NSL, I only used to add new synonyms.
+Also note that I also added the synonyms from the *Flora of Australia* treatment (Spence and Ramsay, 2006); that's why they are grey. In AusMoss pre-NSL, I only used to add new synonyms.
 :::
 
 Don't forget to also add *Bryum angustifolium* (and other synonyms) as synonyms to the AusMoss instance for *Gemmabryum caespiticium*
