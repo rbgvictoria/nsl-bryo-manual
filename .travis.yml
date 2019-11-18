@@ -9,9 +9,7 @@ deploy:
   provider: pages
   skip-cleanup: true
   local_dir: docs/.vuepress/dist
+  github-token: $GITHUB_TOKEN # a token generated on github allowing travis to push code on you repository
   keep-history: true
   on:
     branch: master
-env:
-  global:
-    secure: o0MmBJFo79X6ONuWCu9Sitx96dWJ8J+DntUeNy6P72y5FPDfABS1Fyb4lja1FLPS2TFJ0Ux5I2y6UvusQhNpts2QkTwfdlfJVZDHSxjinn4jKmOkFRXT8DZVHlCoWvltmHYII1bxD5DeziMzDxFIe+HQdTpkLgV6nz+l6gBXBiE6sKjnJC8HCFU6hzxU8nlOKXuqVakP0BujHJyVM7UDgV59YTn4ZX5RH9xPV4wsKIGIBVZm0Jb0kp2RBFRB9wFpf8I1TYWWKYtG+9ooE+iphFWCGRc7RNsfKN8d2UeQge5+xMtHioZ4n5dpumpabcbnAae5fLQjJhw9FiVINVyfN7Qcm1khQU4Iz5VEns45GGZwOwMQxdFmIGgaBm/09+4ELbMK5+jzTsESfUA905st6lkt9IdIlF8tUiG9KzH0ezch9qty4GqjMDQ/ljNHE+ygTUIaXkpuwLqIrQLj/0kxLR+TKLw7Rs+0tkh8etz35CM9J7VdrH85Uv3351o//GtUpTu1AN7I22P76UyJpQBopnqTRaxpEmhzU6+e+B8AugJSKCBQHDmAXJ+Dh1wB9IuxrM1PsvhY6kaobLiuTHQIYhKKpo0B2yypsbwAvgEDqm0Neu/qiUH8sh7o3qKmpV7cyvfNHJpetRuj6djim5R+iMt7wMjpCJQDNhH1j5AtRsQ=
