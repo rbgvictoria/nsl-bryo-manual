@@ -108,7 +108,7 @@ For *Gemmabryum dichotomum* we add the synonyms for the Flora of Australia treat
 
 ![](./assets/gemmabryum-erythropilum-1.png)
 
-Once the name has been create, we add the protologue. The protologue of *Bryum erythropilum* M.Fleisch. is 'Musci Buitenzorg 2: 533. 1904'. There are many (old) protologue citations with *Die Musci der Flora von Buitenzorg* Vol. 2 in them, but the book itself is not there, so let's add it.
+Once the name has been created, we add the protologue. The protologue of *Bryum erythropilum* M.Fleisch. is 'Musci Buitenzorg 2: 533. 1904'. There are many (old) protologue citations with *Die Musci der Flora von Buitenzorg* Vol. 2 in them, but the book itself is not there, so let's add it.
 
 ![](./assets/gemmabryum-erythropilum-2.png)
 
