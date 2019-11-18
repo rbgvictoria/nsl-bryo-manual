@@ -9,7 +9,8 @@ deploy:
   provider: pages
   skip-cleanup: true
   local_dir: docs/.vuepress/dist
-  github_token: "$GITHUB_TOKEN"
+  github_token:
+    secure: EbfzuvNX4X9H3JzJ97oXFh7B2FDOWlFdPDQ3O6MPUXMotmANsVFrBwhmMOC43AabKvryRWZZ0i2KiMNqFbtVLbpVdnZs37PVh8weGNJ//RysrVdDyxYt9aXbeO7C3vzAZY/dC8z6k//mVgBncxSDVw/nY5oHMbbka5qD5RqxhhXcs9nW0XpjOe9lpXuNRjHh8o6lup+Kr4kk17qpeLk32E3RcAp7hEPJ41r4eDN1SY76OyiOfvDG0vcpSIc37Gul4pfJPnwS8h3Wu/6ECJXTN59q/l04DVNr0GQLwMCr5MgvKTMl92LrXk6xVgQsM+S1Y4h7s3yjZj5Ihn6b8zqClf6xZtP3u0M2C7gRAEKV4fag4q6h1apcSJpSEnvizCa10bEftSS7phXM5G9eqDRrVkQU+8pIoTomHFsomhp3cclfu3BHq7anY1G2ao3XIdD6+gLgz8hHrEwCFtfTO88bJp+x1jWSg+yb79xS9ovWa3HbgwfCfHOF6aZICgU0o9snP43OUKtcGhkszIh/66WMlSDYtlHfPrwG6my2me5HMYyEKaymLVQsNoQPkMale/RuJv0KEsPbqSOxDEQSNIOJXK3ByVjBnQxY0YZPs31TwYhy8WJg5bCqw5ETEXRZw903HOkIQnJZ/l2RT1AW2w44h1SkjL2kJNTBG9RZ19vOdfI=
   keep-history: true
   on:
     branch: master
