@@ -9,7 +9,7 @@ deploy:
   provider: pages
   skip-cleanup: true
   local_dir: docs/.vuepress/dist
-  github-token: $nsl_bryo_manual_deploy
+  github-token: f82106716a6b6bbd73ec09f40041221a681cf587
   keep-history: true
   on:
     branch: master
