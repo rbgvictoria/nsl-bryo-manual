@@ -104,32 +104,62 @@ For *Gemmabryum dichotomum* we add the synonyms for the Flora of Australia treat
 
 ## Gemmabryum erythropilum
 
+*Gemmabryum erythropilum* sec. Spence & Ramsay (2019) is a new record for Australia. Therefore we have to add a new name, but since *Gemmabryum erythropilum* is a combination of *Bryum erythropilum*, we add the basionym first.
+
 ![](./assets/gemmabryum-erythropilum-1.png)
+
+Once the name has been create, we add the protologue. The protologue of *Bryum erythropilum* M.Fleisch. is 'Musci Buitenzorg 2: 533. 1904'. There are many (old) protologue citations with *Die Musci der Flora von Buitenzorg* Vol. 2 in them, but the book itself is not there, so let's add it.
 
 ![](./assets/gemmabryum-erythropilum-2.png)
 
+We can now create the protologue instance for *Bryum erythropilum*. You can find the reference back by typing 'Fleischer 1904' and picking the rigth one from the drop-down list. The type of instance is 'tax. nov.'.
+
 ![](./assets/gemmabryum-erythropilum-3.png)
+
+Now we create the name record for *Gemmabryum erythropilum*.
 
 ![](./assets/gemmabryum-erythropilum-4.png)
 
+The protologue of *Gemmabryum erythropilum* is also a reference we don't have yet, so we add it.
+
 ![](./assets/gemmabryum-erythropilum-5.png)
+
+Now we can add the protologue of *Gemmabryum erythropilum*. This is a 'comb. nov.' instance.
 
 ![](./assets/gemmabryum-erythropilum-6.png)
 
+Since this is a 'comb. nov.' instance, we have to add the link to the basionym we just added. You do this in the 'Syn' tab of the protologue instance.
+
 ![](./assets/gemmabryum-erythropilum-7.png)
+
+As the protologue is also an Australian report, we add a secondary  instance for it as well.
 
 ![](./assets/gemmabryum-erythropilum-8.png)
 
+We can add a note with the distribution (only because it is given in the reference).
+
 ![](./assets/gemmabryum-erythropilum-9.png)
+
+Now we add the Spence & Ramsay (2019) instance.
 
 ![](./assets/gemmabryum-erythropilum-10.png)
 
+Since *Gemmabryum erythropilum* is new to AusMoss, we add an AusMoss instance as well.
+
 ![](./assets/gemmabryum-erythropilum-11.png)
+
+Add a note for the distributtion.
 
 ![](./assets/gemmabryum-erythropilum-12.png)
 
+Add the AusMoss instance to the APC tree.
+
 ![](./assets/gemmabryum-erythropilum-13.png)
 
+Hit **Place**.
+
 ![](./assets/gemmabryum-erythropilum-14.png)
+
+And here is the end result after refreshing the page (you can do that either by hitting **F5** or by clicking on the **Search** button).
 
 ![](./assets/gemmabryum-erythropilum-15.png)
