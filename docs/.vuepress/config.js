@@ -3,6 +3,8 @@ module.exports = {
   description: 'Editing reference for the National Species Lists Bryophyte Shard',
   port: 4545,
   base: '/nsl-bryo-manual/',
+  repo: 'rbgvictoria/nsl-bryo-manual',
+  plugins: ['@vuepress/medium-zoom', '@vuepress/back-to-top'],
   themeConfig: {
     sidebar: [
       {
@@ -11,10 +13,11 @@ module.exports = {
         collapsable: true,
         children: [
           ['/', 'Home'],
+          ['/new-author/', 'New author'],
           ['/new-reference/', 'New reference'],
           ['/new-name/', 'New name'],
-          ['/new-name/primary-instance/', 'Primary instance'],
-          ['/new-name/secondary-instance/', 'Secondary instance']
+          ['/new-instance/', 'New instance'],
+          ['/apc-tree/', 'APC tree']
         ]
       },
       {

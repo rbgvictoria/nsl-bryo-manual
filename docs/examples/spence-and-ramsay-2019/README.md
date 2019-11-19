@@ -21,7 +21,7 @@ The combination *Gemmabryum caespiticium* is not yet in AusMoss, so we'll have t
 
 ![](./assets/gemmabryum-caespiticium-1.png)
 
-We need to add the protologue of *Gemmabryum caespiticium* as a [primary instance](/new-name/primary-instance/). You can most easily find the reference for the instance by typing the name of the first author and the year, in this case 'Spence 2009'. Select the reference, or, if it is not already there, add a [new reference](/new-reference/).
+We need to [add the protologue](/new-name/#add-protologue) of *Gemmabryum caespiticium* as a primary instance. You can most easily find the reference for the instance by typing the name of the first author and the year, in this case 'Spence 2009'. Select the reference, or, if it is not already there, add a [new reference](/new-reference/).
 
 ![](./assets/gemmabryum-caespiticium-2.png)
 
@@ -82,7 +82,7 @@ Don't forget to also add *Bryum angustifolium* (and other synonyms) as synonyms 
 
 ## Gemmabryum chrysoneuron
 
-*Gemmabryum chrysoneuron" is already in AusMoss and it appears Spence & Ramsay (2019) did not make any changes, so I just added the synonyms for the Flora of Australia treatment (Spence & Ramsay, 2006)...
+*Gemmabryum chrysoneuron* is already in AusMoss and it appears Spence & Ramsay (2019) did not make any changes, so I just added the synonyms for the Flora of Australia treatment (Spence & Ramsay, 2006)...
 
 ![](./assets/gemmabryum-chrysoneuron-2.png)
 
@@ -163,7 +163,3 @@ Hit **Place**.
 And here is the end result after refreshing the page (you can do that either by hitting **F5** or by clicking on the **Search** button).
 
 ![](./assets/gemmabryum-erythropilum-15.png)
-
-::: warning
-Test to see if CI works...
-:::
