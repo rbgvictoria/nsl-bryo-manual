@@ -20,12 +20,46 @@ In order to create a new reference, click **New** in the top menu and then **Ref
 
 ![](./assets/new-reference-book.png)
 
-- While the example is a book in a series, I don't know how to add a series as a parent and still get a decent-looking citation, so we database it as if it is not part of a series. APNI does the same for *Flora of Australia* volumes.
-- NSL doesn't have fields for **Publisher** and **Place of publication** (yet).
+- While the example is a book in a series (or multi-volume book rather), I don't know how to add a series as a parent and still get a decent-looking citation, so we database it as if it is not part of a series. APNI does the same for *Flora of Australia* volumes.
+
+In order to add aditional information, save the reference and open the second **Edit** tab.
+
+![](./assets/new-reference-book-2.png)
+
+- You can add the **Publisher** and **Published location** (Place of publication) here.
+
+- Under **Abbreviated title** I fill in the title as I would like to see in the protologue (since yesterday when Anna told me where to find them). For books you use the abbreviations from TL-2 (if it is in there) and for journals the BPH abbreviations. Tropicos has these abbreviations with the names as well, so that will be the easiest place to get them.
+
+  ::: warning Note
+  Currently the NSL doesn't do anything with the abbreviated titles that are filled in. That will be a nice enhancement for the future
+  :::
+
+- If you want to display a different title in the citation from the one  entered in the **Title** field, you can change it in the **Display title** field.
+
+- I filled in the **Language** field, but, since I first saw the field  yesterday, most references in AusMoss will have their language as 'Undetermined'.
+
+- The **Duplicate of** field might be very handy for cleaning up all the spurious protologue references that came in with the migration of the moss data.
+
+  ::: tip Note
+  Have to find out if there are scipts/jobs that clean up the duplicate and links all the instances to the **Duplicate of** reference.
+  :::
+
+![](./assets/new-reference-book-3.png)
+
 
 Below is what the reference for the moss volume of *Flora of Australia* looks like (this is the 'Edit' tab, as the record was already created).
 
+The third **Edit** tab has various links that can be filled in.
+
 ![](./assets/reference-flora-of-australia.png)
+
+I have filled in the TL-2 number and the BHL link.
+
+::: warning
+Do not forget to (individually) save the second and third **Edit** tab. Very easy to forget.
+:::
+
+
 
 ## Chapter or section
 
