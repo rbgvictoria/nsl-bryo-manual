@@ -6,6 +6,8 @@ title: New Reference
 
 In order to create a new reference, click **New** in the top menu and then **Reference**.
 
+![](./assets/new-item-dropdown-1.jpg)
+
 ## Journal article
 ![](./assets/new-reference-1.png)
 
@@ -34,24 +36,19 @@ In order to add aditional information, save the reference and open the second **
   Currently the NSL doesn't do anything with the abbreviated titles that are filled in. That will be a nice enhancement for the future
   :::
 
-- If you want to display a different title in the citation from the one  entered in the **Title** field, you can change it in the **Display title** field.
+- If you want to display a different title in the citation from the one entered in the **Title** field, you can change it in the **Display title** field.
 
 - I filled in the **Language** field, but, since I first saw the field  yesterday, most references in AusMoss will have their language as 'Undetermined'.
 
 - The **Duplicate of** field might be very handy for cleaning up all the spurious protologue references that came in with the migration of the moss data.
 
   ::: tip Note
-  Have to find out if there are scipts/jobs that clean up the duplicate and links all the instances to the **Duplicate of** reference.
+  Have to find out if there is a script/job that removes the duplicate and links all the instances to the **Duplicate of** reference. It would already be nice if references that have their **Duplicate of** field filled in do not show up in any drop-downs.
   :::
-
-![](./assets/new-reference-book-3.png)
-
-
-Below is what the reference for the moss volume of *Flora of Australia* looks like (this is the 'Edit' tab, as the record was already created).
 
 The third **Edit** tab has various links that can be filled in.
 
-![](./assets/reference-flora-of-australia.png)
+![](./assets/new-reference-book-3.png)
 
 I have filled in the TL-2 number and the BHL link.
 
@@ -59,6 +56,13 @@ I have filled in the TL-2 number and the BHL link.
 Do not forget to (individually) save the second and third **Edit** tab. Very easy to forget.
 :::
 
+Below is what the reference for the moss volume of *Flora of Australia* looks like (this is the 'Edit' tab, as the record was already created).
+
+![](./assets/reference-flora-of-australia.png)
+
+...and the second **Edit** tab
+
+![](./assets/reference-flora-of-australia-2.png)
 
 
 ## Chapter or section

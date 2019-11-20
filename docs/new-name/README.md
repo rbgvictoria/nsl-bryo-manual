@@ -6,6 +6,10 @@ title: New name
 
 In order to create a new name record, click **New** in the top menu and then **Scientific name**. For the a name with rank of family or higher, use **New->Scientific name family and above**.
 
+![](./assets/new-item-dropdown-1.jpg)
+
+You can now enter the data in the **Name** dialogue in the righthand side of the window.
+
 ![](./assets/new-name-1.png)
 
 - I don't find the **Type** of name very important and have tried and failed to add an informal name using **New->Phrase name**, so I am happy to leave the value of the **Type** field as 'Scientific', even in the very rare case that the name is not a "scientific name".

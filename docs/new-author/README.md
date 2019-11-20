@@ -12,7 +12,11 @@ You can create a new author by clicking on **New** in the top menu and then on *
 
 - **Name**: this is the name as you would like it to appear in the citation of a Reference.
 
-- **Abbreviation**: This is the standardised abbreviation that will appear in the authorship of the name. APNI and AusMoss use the author abbreviation standards set by IPNI (e.g. N.Pederson, not N. Pederson). Authors and their standard abbreviations may be searched in the IPNI database https://www.ipni.org/
+- **Abbreviation**: This is the IPNI standard form that will appear in the authorship of the name. Authors and their standard forms may be searched in the [International Plant Names Index (IPNI)](https://ipni.org). Tropicos uses the IPNI standard forms as well, so that will mostly be the easiest way to get or check them.
+
+  ::: tip Note
+  Need to find out if IPNI authors list, or only the ones for bryophytes, have been pre-loaded. If not, we might still do that.
+  :::
 
 ::: tip Note
 For groups of authors, just type in the entire string, for example 'Spence, J.R. & Ramsay, H.P.' in the **Name** field and 'J.R.Spence & H.P.Ramsay' in the **Abbreviation** field.
