@@ -14,7 +14,7 @@ In order to create a new reference, click **New** in the top menu and then **Ref
 - To fill in the **Author** field, start typing the surname of the first author and, once the drop-down list is short enough, select the entry you want. You do need to select an author from the drop-down list. If you just type in the string, you won't be able to save the record. If the author is unknown or there is no author (something that shouldn't be the case for a journal article), type '-' and select the '-' entry from the list.
 - For **Author role** choose 'Author'.
 - There is no separate field for the journal issue, so we add it between parentheses in the **Volume** field. In AusMoss, we only add the issue if the pages in an issue are independently numbered.
-- For the **Publication date** we only ever fill in the **year** (last field), so the day and month do not appear in the citation. If you want to add more detailed publication date information, use the **Publication date text** field. Preferrably use ISO Date format – 'yyyy-mm-dd' or 'yyyy-mm', or 'yyyy-mm-dd/yyyy-mm-dd' or 'yyyy-mm/yyyy-mm' for periods in the **Publication date text** field.
+- For the **Publication date** we only ever fill in the **year** (last field), so the day and month do not appear in the citation. If you want to add more detailed publication date information, use the **Publication date text** field. Use the format suggested below the text field (e.g. 13 Sept. 2017) for periods in the **Publication date text** field. Using a single date format will enable future editors of the NSL to parse out publication date easily and establish priority of names.
 
 ## Book
 

@@ -12,7 +12,7 @@ You can create a new author by clicking on **New** in the top menu and then on *
 
 - **Name**: this is the name as you would like it to appear in the citation of a Reference.
 
-- **Abbreviation**: this is the APNI standard form that will appear in the authorship of a Name.
+- **Abbreviation**: This is the standardised abbreviation that will appear in the authorship of the name. APNI and AusMoss use the author abbreviation standards set by IPNI (e.g. N.Pederson, not N. Pederson). Authors and their standard abbreviations may be searched in the IPNI database https://www.ipni.org/
 
 ::: tip Note
 For groups of authors, just type in the entire string, for example 'Spence, J.R. & Ramsay, H.P.' in the **Name** field and 'J.R.Spence & H.P.Ramsay' in the **Abbreviation** field.
