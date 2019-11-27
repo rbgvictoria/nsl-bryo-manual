@@ -26,7 +26,8 @@ module.exports = {
           ['/new-reference/', 'New reference'],
           ['/new-name/', 'New name'],
           ['/new-instance/', 'New instance'],
-          ['/apc-tree/', 'APC tree']
+          ['/apc-tree/', 'APC tree'],
+          ['/workflow/', 'Workflow']
         ]
       },
       {

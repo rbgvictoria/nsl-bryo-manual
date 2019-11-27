@@ -16,7 +16,9 @@ In order to create a new reference, click **New** in the top menu and then **Ref
 - To fill in the **Author** field, start typing the surname of the first author and, once the drop-down list is short enough, select the entry you want. You do need to select an author from the drop-down list. If you just type in the string, you won't be able to save the record. If the author is unknown or there is no author (something that shouldn't be the case for a journal article), type '-' and select the '-' entry from the list.
 - For **Author role** choose 'Author'.
 - There is no separate field for the journal issue, so we add it between parentheses in the **Volume** field. In AusMoss, we only add the issue if the pages in an issue are independently numbered.
-- For the **Publication date** we only ever fill in the **year** (last field), so the day and month do not appear in the citation. If you want to add more detailed publication date information, use the **Publication date text** field. Use the format suggested below the text field (e.g. 13 Sept. 2017) for periods in the **Publication date text** field. Using a single date format will enable future editors of the NSL to parse out publication date easily and establish priority of names.
+- For the **Publication date** we only ever fill in the **year** (last field), so the day and month do not appear in the citation. If you want to add more detailed publication date information, use the **Publication date text** field. Use [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) datetime format in the **Publication date text** field, so 'yyyy-mm-dd' for complete dates, or 'yyyy-md' if you only know the year and month. For periods, separate the start and end dates with a forward slash ('/').
+
+
 
 ## Book
 
@@ -40,11 +42,7 @@ In order to add aditional information, save the reference and open the second **
 
 - I filled in the **Language** field, but, since I first saw the field  yesterday, most references in AusMoss will have their language as 'Undetermined'.
 
-- The **Duplicate of** field might be very handy for cleaning up all the spurious protologue references that came in with the migration of the moss data.
-
-  ::: tip Note
-  Have to find out if there is a script/job that removes the duplicate and links all the instances to the **Duplicate of** reference. It would already be nice if references that have their **Duplicate of** field filled in do not show up in any drop-downs.
-  :::
+- See [Mark a reference as a duplicate](#mark-a-reference-as-a-duplicate) for how to use the **Duplicate of** field.
 
 The third **Edit** tab has various links that can be filled in.
 
@@ -76,3 +74,15 @@ Below is the entry for Spence & Ramsay's (2006) *Flora of Australia* treatment o
 I create a new AusMoss reference every day I do edits in AusMoss. I use the 'Database' reference type for that. Because instances in NSL are timestamped, it might already be possible, or require only a small tweak, to have just the one AusMoss reference or, perhaps better, one AusMoss reference per calendar year.
 
 ![](./assets/new-reference-2.png)
+
+## Mark a reference as a duplicate
+
+You can mark a reference as a duplicate by selecting the reference it is a duplicate of in the **Duplicate of** field in the second **Edit** tab.
+
+![](./assets/reference-duplicate-of-1.png)
+
+When you save the record, the reference will be marked '**[Duplicate]**' in the main pane on the left (I had done it for the references above already; the reference they have all been set as a duplicate of is the reference below).
+
+::: tip
+Duplicate references will not show in any drop-downs anymore
+:::
