@@ -80,6 +80,10 @@ Don't forget to also add *Bryum angustifolium* (and other synonyms) as synonyms 
 
 ![](./assets/gemmabryum-caespiticium-12.png)
 
+::: tip Note
+With the addition of *Gemmabryum caespiticium*, the circumscription of *Gemmabryum* has changed, so we need to create a new AusMoss instance to replace the current *Gemmabryum* instance in the tree. As the tree editor doesn't allow multiple instances of the same name in the tree (I can understand that), we can only do this once all names that are currently in *Gemmabryum*, including the ones that have been transferred to *Illibryum* have been dealt with.
+:::
+
 ## Gemmabryum chrysoneuron
 
 *Gemmabryum chrysoneuron* is already in AusMoss and it appears Spence & Ramsay (2019) did not make any changes, so I just added the synonyms for the Flora of Australia treatment (Spence & Ramsay, 2006)...
